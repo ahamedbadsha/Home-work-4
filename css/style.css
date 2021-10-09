@@ -1,0 +1,34 @@
+.ul{
+	list-style-type: circle;
+}
+.map{
+	width: 100%;
+	height: 400px;
+}
+.youtub{
+	width:650PX;
+	height:350PX;
+}
+h1{
+	display: inline-block;
+}
+p{
+	display: inline;
+}
+.a{
+	display: block;
+}
+.green{
+	color: green;
+}
+.t{
+	width: 60%;
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+th, td{
+	font-size: 20px;
+	text-align: center;
+	border: 1px solid black;
+	background-color: #c7cdd6;
+}
